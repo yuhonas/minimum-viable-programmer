@@ -1,0 +1,53 @@
+*  Stuff you should know as a developer
+
+I recently found myself inbetween jobs, this is a grab bag of stuff I wanted to revise to identify any holes/gaps in my knowledge
+
+** General Knowledge
+
+ Web/Internet Technologies: The communication protocols, languages/APIs, and other mechanisms that enable the internet to function. 
+
+*** [[https://www.youtube.com/watch?v=po3zYOe00O4][HTTP,HTTPS + SSL/TLS Basics]] (6m34s)
+**** [[https://www.youtube.com/watch?v=HEEnLZV2wGI][The OSI Model Demystified]] (18m40s)
+*** [[https://www.youtube.com/watch?v=0IsQqJ7pwhw][How do browsers work]] (20m5s)
+*** [[https://www.youtube.com/watch?v=72snZctFFtA][How does DNS work]] (6m3s)
+*** [[https://www.youtube.com/watch?v=RH0o-QjnwDg][SGML HTML XML What's the Difference?]]  (10m20s)
+*** [[https://www.youtube.com/watch?v=Q4dYwEyjZcY][HTML Poision or Panacea]]
+*** [[https://www.youtube.com/watch?v=-rPPqm44xLs][Mainframes and the Unix Revolution]] (15m3s)
+*** [[https://www.youtube.com/watch?v=qFTIc5frqw8][25 years of Linux in 5 minutes]] (5m13s)
+*** Data modeling fundamentals 
+*** Database architecture
+*** SQL History/Syntax, Basic/Complex query design
+*** Linux basics, mastering the command line
+**** Must be comfortable working in a Linux environment (as a user, not an admin) and will be expected to have a good working knowledge of user-level Linux commands, shell scripting, regular expressions, etc.
+*** Trouble shooting / problem soliving approach, strategies & patterns for decomposing and solving problems
+*** Algorithms/Data Structures (linked lists, binary trees, hash tables,etc.)
+*** Big-O Notation
+*** Programming Pradigms, Object Orientated, Procedural, Functional, Imperative, Declarative
+*** OO Design/Theory
+*** [[https://www.youtube.com/watch?v=cWAHpvkh8Vs][Why Elixir Matters: A Genealogy of Functional Programming]] (28m27s)
+
+** Google Specific
+*** [[https://github.com/P1xt/google-interview-university][Google Interview University]]
+*** [[http://techland.time.com/2012/09/27/google-turns-14-today-was-initially-called-backrub/][Google Turns 14, was initially called BackRub]]
+*** [[https://www.youtube.com/watch?v=rgQm1KEIIuc&t=26s][Google I/O 2011: Life in App Engine Production]] (57m4s)
+*** [[https://www.youtube.com/watch?v=85Nyi4Xb9PY][The Invention and History of Google]] (6m16s) 
+** Book List
+*** Cracking the code interview
+*** From Good to Great
+*** Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal
+*** Hard thing about hard things
+*** It worked for me
+*** Lean startup
+*** Principles of management
+*** Programming interview exposed
+*** Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead
+*** Zero to one
+** Practice your coding & interview skills
+** Codility
+** Google University
+** Interview Cake
+** Hackerrank
+
+*  Contributing
+
+TBD
