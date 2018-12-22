@@ -1,10 +1,8 @@
-# Stuff you should know as a developer
+# Minimum Viable Programmer (MVP)
 
-I recently resigned from my job and took a four month break this is a personal laundry list of high level stuff I wanted to non exhaustively revise to identify any gaps in my knowledge before venturing back
+I recently resigned from my job and took a four month break this is a personal laundry list of high level stuff I wanted to non exhaustively revise to identify any gaps in my knowledge of the industry.
 
-My approach to learning has always been to understand the history, the *why* and learn principles over methods.
-
-_If you learn only methods, you'll be tied to your methods. But if you learn principles, you can devise your own methods. -Ralph W Emerson_
+And yes, the names a shameless dig at the one of the lean startup movements catch cries, the [Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product)
 
 ## General Knowledge
 
@@ -39,6 +37,7 @@ The persistent stores that power the internet
 
 ### Practice your coding & interview skills
 
+- [ ] [Codesignal](https://codesignal.com/)
 - [ ] [Codility](https://codility.com/)
 - [ ] [Grow your tech dev skills with Google](https://techdevguide.withgoogle.com/)
 - [ ] [Interview Cake](https://www.interviewcake.com/)
@@ -72,8 +71,12 @@ The persistent stores that power the internet
 
 ## How to use it?
 
+My approach to learning has always been to understand the history, the *why* and learn principles over methods.
+
+_If you learn only methods, you'll be tied to your methods. But if you learn principles, you can devise your own methods. -Ralph W Emerson_
+
 1.  Fork it
-2.  Work through each TODO using [ORG mode](https://orgmode.org/) or until you're happy you're covered
+2.  Work through each TODO or until you're happy you're covered
 
 ## Contributing
 
