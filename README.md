@@ -1,6 +1,6 @@
 # Minimum Viable Programmer (MVP)
 
-I recently resigned from my job and took a four month break this is a personal laundry list of high level stuff I wanted to non exhaustively revise to identify any gaps in my knowledge of the industry.
+I recently resigned from my job and took a four month hiatus this is a personal laundry list of high level stuff I wanted to non exhaustively revise to identify any gaps in my knowledge of the industry.
 
 And yes, the names a shameless dig at the one of the lean startup movements catch cries, the [Minimum Viable Product](https://en.wikipedia.org/wiki/Minimum_viable_product)
 
@@ -29,11 +29,15 @@ The persistent stores that power the internet
 
 ## Programming
 
-- [ ] Algorithms/Data Structures (linked lists, binary trees, hash tablescetc.)
-- [ ] Big-O Notation
-- [ ] Programming Paradigms, Object Orientated, Procedural, Functional, Imperative, Declarative
-- [ ] OO Design/Theory
+- [ ] [Big-O Notation](https://www.youtube.com/watch?v=v4cd1O4zkGw) (8m)
+- [ ] [Data structures: Crash Course](https://www.youtube.com/watch?v=DuDz6B4cqVc) (10m)
+- [ ] [Programming Paradigms Imperative vs Declarative](https://www.youtube.com/watch?v=sqV3pL5x8PI) (10m)
+- [ ] [4 programming paradigms in 40 minutes](https://www.youtube.com/watch?v=cgVVZMfLjEI) (40m)
+- [ ] [Code vs Data](https://www.youtube.com/watch?v=dw-y3vNDRWk) (7m)
 - [ ] [Why Elixir Matters: A Genealogy of Functional Programming](https://www.youtube.com/watch?v=cWAHpvkh8Vs) (28m)
+- [ ] [Object orientated programming in 7 minutes](https://www.youtube.com/watch?v=pTB0EiLXUC8) (7m)
+- [ ] [Language comparison table](https://rosettacode.org/wiki/Language_Comparison_Table)
+- [ ] [Object orientated programming (history)](https://en.wikipedia.org/wiki/Object-oriented_programming#History)
 
 ### Practice your coding & interview skills
 
@@ -68,6 +72,10 @@ The persistent stores that power the internet
 - [ ] Programming interview exposed
 - [ ] Work Rules!: Insights from Inside Google That Will Transform How You Live and Lead
 - [ ] Zero to one
+
+## Other resources
+
+- [quizlet](https://quizlet.com)
 
 ## How to use it?
 
