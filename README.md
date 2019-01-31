@@ -59,6 +59,7 @@ The persistent stores that power the internet
 - [ ] [Google Turns 14, was initially called BackRub](http://techland.time.com/2012/09/27/google-turns-14-today-was-initially-called-backrub/)
 - [ ] [Google I/O 2011: Life in App Engine Production](https://www.youtube.com/watch?v=rgQm1KEIIuc&t=26s) (57m4s)
 - [ ] [The Invention and History of Google](https://www.youtube.com/watch?v=85Nyi4Xb9PY) (6m16s)
+- [ ] [Site Reliability Engineering](https://landing.google.com/sre/books/)
 
 ## Book List
 
